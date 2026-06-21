@@ -57,5 +57,3 @@ Demonstrate skills in:
 - Dashboard creation
 - Basic business intelligence logic
 
-### Author
-Giovanna — AI & Data Engineering Student 
